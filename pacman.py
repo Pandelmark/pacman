@@ -1,6 +1,5 @@
 '''
 The Packman Problem
-AI lab
 '''    
 
 import copy 
